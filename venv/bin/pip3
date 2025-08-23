@@ -1,4 +1,4 @@
-#!/home/dani/project_revfalvidir/backend/venv/bin/python3
+#!/home/dani/revfalvi_art_fullstack/backend/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
